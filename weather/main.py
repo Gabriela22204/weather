@@ -3,7 +3,7 @@ import json
 from dotenv import dotenv_values
 
 BASE_URL = "http://api.weatherstack.com/"
-CITY = "Porto Alegre"
+CITY = "New York"
 
 envVariables = dotenv_values()
 
