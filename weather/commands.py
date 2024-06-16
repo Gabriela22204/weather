@@ -36,7 +36,7 @@ def svn_add_commit(repository_url, file_path, commit_message):
 
 url = "https://linkoftheurl.ddns.me:12345000000/svn/aaaaa"
 file_path = 'weather_data.json'
-repository_url = "url
+repository_url = url
 commit_message = 'Atualizando dados meteorológicos coletados via API Weatherstack'
 
 # Chamada da função para adicionar e commitar o arquivo
