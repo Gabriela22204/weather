@@ -34,9 +34,9 @@ def svn_add_commit(repository_url, file_path, commit_message):
         print("Erro ao executar comando SVN:", e)
         exit(1)
 
-
+url = "https://linkoftheurl.ddns.me:12345000000/svn/aaaaa"
 file_path = 'weather_data.json'
-repository_url = "https://bigmoxigames.ddns.me:8433/svn/IT_Tests/"
+repository_url = "url
 commit_message = 'Atualizando dados meteorológicos coletados via API Weatherstack'
 
 # Chamada da função para adicionar e commitar o arquivo
